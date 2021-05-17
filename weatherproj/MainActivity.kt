@@ -5,6 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
+import com.example.weatherproj.fragments.InfoFragment
+import com.example.weatherproj.fragments.TownsFragment
+import com.example.weatherproj.fragments.WeatherFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 
